@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-java, jsp, spring 공부중
+java, jsp, spring 勉強しています
 
 
 # 💻 Tech Stack:
