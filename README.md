@@ -31,7 +31,7 @@ Java, JSP, Spring 勉強しています
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sheep-june&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=sheep-june&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=sheep-june&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheep-june&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
